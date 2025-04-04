@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VX2mhTvGI5s=",
+  "dgSpecHash": "3JtKYr7Ay+I=",
   "success": true,
   "projectFilePath": "C:\\Users\\marin\\source\\repos\\DemoMvcSolution\\Demo.BusinessLogic\\Demo.BusinessLogic.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marin\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\marin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
