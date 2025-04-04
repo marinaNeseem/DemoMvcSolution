@@ -1,0 +1,12 @@
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.deps.json
+C:\Users\marin\source\repos\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.dll
+C:\Users\marin\source\repos\Demo.DataAccess\bin\Debug\net8.0\Demo.DataAccess.pdb
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.dll
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\refint\Demo.DataAccess.dll
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.pdb
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\ref\Demo.DataAccess.dll
