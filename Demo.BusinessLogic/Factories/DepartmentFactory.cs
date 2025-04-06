@@ -5,7 +5,10 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using Demo.BusinessLogic.DataTransferObject.DepartmentDto;
+
 using Demo.DataAccess.Models.DepartmentModel;
+using Demo.BusinessLogic.DataTransferObject;
+
 
 namespace Demo.BusinessLogic.Factories
 {
